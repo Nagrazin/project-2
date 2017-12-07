@@ -55,4 +55,18 @@ body {
 
 @media (max-width: 576px) {
   nav .container {
-    width: 100%; } }
+    width: 100%; } 
+
+   #showcase {
+   	height: 100vh;
+   }
+
+   #showcase h1 {
+   	font-size: 4em;
+   	margin-bottom: 20%;
+   }
+
+   #showcase a {
+   	margin-top: 20%;
+   }
+}
